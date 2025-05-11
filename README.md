@@ -47,6 +47,15 @@ Invigil-ease is an e-proctoring system to monitor candidates during online exams
 4. **Suspicion level** is calculated and updated dynamically.
 5. **PDF report** is generated and saved at the end of the session.
 
+## Demo
+
+![Image](https://github.com/user-attachments/assets/ec648c69-9cd7-4912-8d5e-ee7fb38385bb)
+
+![Image](https://github.com/user-attachments/assets/a411a19d-e8ae-42f0-8d80-41af930b2f42)
+
+![Image](https://github.com/user-attachments/assets/6e6ee0c8-93a7-4c44-b004-5492704153ae)
+
+![Image](https://github.com/user-attachments/assets/e457adcb-85b2-4081-90ea-ee598c040084)
 
 ## 🧪 Setup Instructions
 
